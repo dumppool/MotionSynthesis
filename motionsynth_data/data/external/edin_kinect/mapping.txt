@@ -1,0 +1,25 @@
+Motion Mapping:
+
+TestCapture  (2, 150:) - TestMotion-000_Mark (1:)
+TestCapture2 (4,   0:) - TestMotion-003_Mark (260:)
+TestCapture4 (5,   0:) - TestMotion-005_Mark (220:)
+TestCapture6 (2,   0:) - None :(
+TestCapture8 - No data
+
+---------------------------------
+
+Kinect Height: 35cm
+Kinect Angle: -0 degree
+
+SecondCapture1  (2, 0:None) - KinectCapture-001_Dan (615:None)
+SecondCapture2  (0, 0:None) - KinectCapture-002_Dan (374:374+6373)
+SecondCapture3  (1, 0:5588) - KinectCapture-003_Dan (237:237+5625)
+#SecondCapture3  (4, 5630:None)  - KinectCapture-003_Dan (5825:)
+SecondCapture4  (4, 0:)     - KinectCapture-004_Dan (231:231+9393)
+SecondCapture5  (4, 0:)     - KinectCapture-005_Dan (206:206+11167)
+SecondCapture6  (4, 0:)     - KinectCapture-006_Dan (304:304+10543)
+SecondCapture7  (4, 0:)     - KinectCapture-008_Dan (155:155+7809)
+SecondCapture8  (4, 0:)     - KinectCapture-009_Dan (183:183+11454)
+SecondCapture9  (4, 0:)     - KinectCapture-010_Dan (296:296+8375)
+SecondCapture10 (4, 0:)     - KinectCapture-011_Dan (213:213+6728)
+SecondCapture12 (3, 0:)     - KinectCapture-013_Dan (345:345+5286)
